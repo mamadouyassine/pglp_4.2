@@ -1,0 +1,24 @@
+-classpath
+'C:/Users/utilisateur/.m2/repository/junit/junit/4.11/junit-4.11.jar;C:/Users/utilisateur/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/utilisateur/Desktop/Cours/PROGRAMMATION/TP/Exo4.2/pgl4.2/src/main/java;C:/Users/utilisateur/Desktop/Cours/PROGRAMMATION/TP/Exo4.2/pgl4.2/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2020. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/utilisateur/Desktop/Cours/PROGRAMMATION/TP/Exo4.2/pgl4.2/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'pgl4.2 0.0.1-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/utilisateur/Desktop/Cours/PROGRAMMATION/TP/Exo4.2/pgl4.2/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'pgl4.2 0.0.1-SNAPSHOT API'
